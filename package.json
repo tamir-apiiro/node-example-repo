@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/johnpapa/node-hello#readme",
   "dependencies": {
+    "angular": "^1.8.3",
     "express": "^4.19.2",
     "react": "^18.3.1"
   }
