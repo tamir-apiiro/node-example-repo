@@ -1,5 +1,4 @@
 const http = require('http');
-const react = require('react');
 const angular = require('angular')
 const port = process.env.PORT || 3000;
 
